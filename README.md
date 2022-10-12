@@ -7,4 +7,4 @@
 
 Just run `ProjectboardApplication.java`
 
-
+For debugging purposes use [Postman](https://www.postman.com/), if necessary change server port on `resources/application.properties`
