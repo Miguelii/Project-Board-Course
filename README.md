@@ -3,7 +3,7 @@
 
 ### projectboard - Back-end using Spring framework
 
-#### Setup
+### Setup
 
 Just run `ProjectboardApplication.java`
 
